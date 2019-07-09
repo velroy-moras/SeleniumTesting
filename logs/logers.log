@@ -1,0 +1,9 @@
+12:33:37.083 [main] ERROR Logging - I am not working
+12:33:37.097 [main] INFO  Logging - This is an information
+12:33:37.097 [main] WARN  Logging - This is a warning
+12:34:39.680 [main] ERROR Logging - I am not working
+12:34:39.724 [main] INFO  Logging - This is an information
+12:34:39.724 [main] WARN  Logging - This is a warning
+I am not working
+This is an information
+This is a warning
