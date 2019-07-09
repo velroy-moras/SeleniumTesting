@@ -1,2 +1,2 @@
-# MyProgramTime
-Projects and Assignments worked on.
+# Selenium Testing Scripts
+Here are few of my projects and assignments worked on. Includes everything for Web UI based testing.
