@@ -9,6 +9,7 @@
       <mapping pattern="forgotPassword" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="logs" type="PLAIN_TEXT" />
+      <mapping pattern="xmlFiles" type="XML" />
     </extensionMap>
   </component>
 </application>
